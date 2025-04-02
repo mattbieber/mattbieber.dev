@@ -19,7 +19,7 @@ export const github = () => {
 export const linkedin = () => {
     return (
         <svg
-            className="relative left-0 sm:left-5 -mt-[0px] mr-1.5 h-5 w-5 duration-300 ease-out sm:absolute sm:mr-0 sm:translate-x-3 sm:group-hover:translate-x-2.5 lg:h-6 lg:w-6"
+            className="relative left-0 sm:left-4 -mt-[0px] mr-1.5 h-5 w-5 duration-300 ease-out sm:absolute sm:mr-0 sm:translate-x-3 sm:group-hover:translate-x-2.5 lg:h-6 lg:w-6"
             xmlns="http://www.w3.org/2000/svg"
             viewBox="0 0 24 24"
         >
