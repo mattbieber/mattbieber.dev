@@ -1,4 +1,3 @@
-import Image from 'next/image'
 import { Banner } from '@/app/components/Banner'
 import { Button } from '@/app/components/Button'
 import { github, linkedin, resume, email } from '@/app/ui/icons'
@@ -20,11 +19,11 @@ export default function Home() {
                     />
                 </nav>
                 <div className="text-md m-10 leading-8 text-slate-700 sm:m-1">
-                    Hi! I'm <strong>Matt</strong>, a Front-end / Full-stack developer living in Portland, Oregon. For
-                    over a decade I've been devoted to crafting delightful web and mobile experiences - particularly
+                    Hi! I&apos;m <strong>Matt</strong>, a Front-end / Full-stack developer living in Portland, Oregon. For
+                    over a decade I&apos;ve been devoted to crafting delightful web and mobile experiences - particularly
                     building successful, innovative SaaS applications built with React, Node.js, and Next.js. I value
-                    scalability, UI optimization, and data-driven solutions, and I'm super passionate about building
-                    products that genuinely improve user experiences. If you're like-minded or just wanna reach out,
+                    scalability, UI optimization, and data-driven solutions, and I&apos;m super passionate about building
+                    products that genuinely improve user experiences. If you&apos;re like-minded or just wanna reach out,
                     please get in touch!
                 </div>
             </main>
